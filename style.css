@@ -1,0 +1,15 @@
+body {
+    margin: 3em 6em;
+}
+
+header {
+    text-align: right;
+}
+
+span {
+    text-decoration: underline;
+}
+
+footer {
+    padding-top: 60px;
+}
